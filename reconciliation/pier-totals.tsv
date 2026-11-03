@@ -1,0 +1,4 @@
+pier	berths	cap_exceeded	normal_load	no_valid_session	accepted_sessions	within_cap_sessions	over_cap_sessions
+East	2	2	0	0	9	7	2
+Harbor	2	1	1	0	5	4	1
+West	1	1	0	0	3	2	1

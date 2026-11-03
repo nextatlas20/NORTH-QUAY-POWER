@@ -1,0 +1,6 @@
+berth_id	pier	daily_cap_watt_minutes	accepted_sessions	within_cap_sessions	over_cap_sessions	first_over_cap_at	latest_accepted_at	latest_session_id	status
+B-01	East	9000	5	4	1	2026-09-03T11:00:00Z	2026-09-16T10:00:00Z	S-121	CAP_EXCEEDED
+B-02	East	12000	4	3	1	2026-09-04T09:30:00Z	2026-09-14T10:00:00Z	S-119	CAP_EXCEEDED
+B-03	Harbor	7000	3	3	0	-	2026-09-09T10:00:00Z	S-112	NORMAL_LOAD
+B-04	Harbor	15000	2	1	1	2026-09-15T10:00:00Z	2026-09-15T10:00:00Z	S-120	CAP_EXCEEDED
+B-05	West	5000	3	2	1	2026-09-07T08:00:00Z	2026-09-12T10:00:00Z	S-117	CAP_EXCEEDED

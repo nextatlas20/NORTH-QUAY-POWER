@@ -1,0 +1,5 @@
+session_id	berth_id	pier	connected_at	watt_minutes	daily_cap_watt_minutes	excess_watt_minutes
+S-101	B-01	East	2026-09-03T11:00:00Z	9500	9000	500
+S-103	B-02	East	2026-09-04T09:30:00Z	13000	12000	1000
+S-108	B-05	West	2026-09-07T08:00:00Z	5001	5000	1
+S-120	B-04	Harbor	2026-09-15T10:00:00Z	15001	15000	1
